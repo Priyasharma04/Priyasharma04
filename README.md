@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">~⚡ Geeking Out On: Leveling Up My Tech Stack<br>~ 🔧Tinkering : Web Development<br>~🚀 Orbiting: My Passion for Astronomy</p>
+<p align="left">~ Geeking Out On: Leveling Up My Tech Stack<br>~ Tinkering : Web Development<br>~ Orbiting: My Passion for Astronomy</p>
 
 ###
 
