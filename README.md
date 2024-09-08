@@ -30,11 +30,12 @@
 
 ###
 
-<p align="left" style="font-family: Arial, sans-serif; font-size: 1.1rem; line-height: 1.6;">
-  <span style="color: #00f2ea;">>> Geeking Out On</span> <strong>Leveling Up My Tech Stack</strong><br>
-  <span style="color: #f28b00;">>> Tinkering With</span> <strong>Web Development</strong><br>
-  <span style="color: #ff007f;">>> Orbiting Around</span> <strong>My Passion for Astronomy</strong>
+<p align="left" style="font-family: 'Fira Code', monospace; font-size: 1.2rem; line-height: 1.7; letter-spacing: 0.5px;">
+  <span style="color: #00f2ea;">>> Geeking Out On</span> <strong style="color: #61dafb; text-shadow: 0 0 8px #00f2ea;">Leveling Up My Tech Stack</strong><br>
+  <span style="color: #f28b00;">>> Tinkering With</span> <strong style="color: #f28b00; text-decoration: underline;">Web Development</strong><br>
+  <span style="color: #ff007f;">>> Orbiting Around</span> <strong style="color: #ff007f; font-style: italic;">My Passion for Astronomy</strong>
 </p>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
